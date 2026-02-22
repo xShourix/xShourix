@@ -1,8 +1,6 @@
 ## Hi there 👋
-<p>
   I'm Wiktoria, an IT student.<br>
   Currently focusing on expanding my **Next.js** and **C#** skills.
-</p>
 
 <!--
 **xShourix/xShourix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
