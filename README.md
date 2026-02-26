@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 🌸
   I'm Wiktoria, an IT student.<br>
   Currently focusing on expanding my **Next.js** and **C#** skills.
 
